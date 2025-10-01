@@ -1,0 +1,4 @@
+# Sentiment Analysis of Movie Reviews on IMDb Using Logistic Regression Algorithm
+
+## 📌 Abstract
+Sentiment Analysis is a subfield of Machine Learning that focuses on analyzing opinions expressed in textual data. IMDb, as a widely used platform, provides a space for movie enthusiasts worldwide to share their thoughts and reviews. User feedback can serve as a benchmark for evaluating a film's success. This research aims to classify reviews into positive and negative categories using the Logistic Regression algorithm combined with Grid Search and Active Learning methods. The classification results show that the highest accuracy achieved is 90.90% using Logistic Regression with the combination of Grid Search and Active Learning. Meanwhile, Logistic Regression with Active Learning alone achieved an accuracy of 90.58%, Logistic Regression with Grid Search reached 90.17%, and the basic Logistic Regression model achieved an accuracy of 89.81%.
